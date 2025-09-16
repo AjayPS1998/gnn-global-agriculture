@@ -2,11 +2,143 @@ Wheat Vulnerability GNN - Analysis Pipeline Log
 ============================================================
 
 Experiment: gcn_run_1
-Date: 2025-09-16 23:44:24
+Date: 2025-09-17 01:03:35
 
 Pipeline Steps:
 ------------------------------
-[23:44:15] Experiment Started: Created directory: C:\Users\Windows 11\Desktop\Journal\github_repo\experiments\gcn_run_1
-[23:44:24] Model Evaluation: Test MAE: 0.0983, R²: 0.4956, Predictions: 125
+[01:03:21] Vulnerability Analysis Started: Using latest experiment gcn_run_1 for year 2021
+[01:03:21] Model Loading: Successfully loaded model with config: 3 GCN layers, 12 features
+[01:03:29] Data Processing: Analyzing 125 countries with 26699 trade records
+[01:03:29] Future Prediction Mode: Predicting 2021 vulnerability using latest available data (2020)
+[01:03:35] Prediction Generation: Generated vulnerability predictions for 1 years
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Trade Data Source: Using 2020 trade data for 2021 prediction
+[01:03:35] Risk Categorization: Critical: 0, High: 9, Medium: 50, Low: 66
+[01:03:35] Vulnerability Insights: Major importers: 33, High concentration: 50, Geopolitical risk: 25, Limited partners: 15
+[01:03:35] Top Vulnerable Countries: Most vulnerable: Palestine, Mongolia, Benin, Azerbaijan, Armenia
+[01:03:35] Results Saved: Vulnerability analysis saved to vulnerability_analysis_20250917_010335.json
 
 ============================================================
