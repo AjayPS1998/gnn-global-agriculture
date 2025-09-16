@@ -1,0 +1,23 @@
+{
+  "experiment_info": {
+    "run_name": "gcn_run_1",
+    "timestamp": "2025-09-16T19:10:14.392566",
+    "data_source": "FAO Wheat Trade Data"
+  },
+  "performance_metrics": {
+    "test_mae": 0.21826030313968658,
+    "r2_score": -0.053191956141995345,
+    "num_predictions": 2
+  },
+  "baseline_comparison": {
+    "baseline_persistence": 0.12457445168680936,
+    "baseline_historical": 0.333986760001974,
+    "improvement_vs_persistence_pct": -75.20470705214206,
+    "improvement_vs_historical_pct": 34.650013330349815
+  },
+  "model_files": {
+    "best_model": "best_model.pt",
+    "training_log": "training_log.txt",
+    "config": "config.txt"
+  }
+}
