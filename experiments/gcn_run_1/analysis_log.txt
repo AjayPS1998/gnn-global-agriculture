@@ -1,0 +1,12 @@
+Wheat Vulnerability GNN - Analysis Pipeline Log
+============================================================
+
+Experiment: gcn_run_1
+Date: 2025-09-16 23:44:24
+
+Pipeline Steps:
+------------------------------
+[23:44:15] Experiment Started: Created directory: C:\Users\Windows 11\Desktop\Journal\github_repo\experiments\gcn_run_1
+[23:44:24] Model Evaluation: Test MAE: 0.0983, R²: 0.4956, Predictions: 125
+
+============================================================
